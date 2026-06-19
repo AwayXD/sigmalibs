@@ -1,0 +1,77 @@
+<component name="libraryTable">
+  <library name="sigmalibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lwjgl-jemalloc-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-opengl-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-codec-1.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jlayer-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jtouchbar-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-openal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/text2speech-1.11.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-jemalloc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-glfw-3.3.4-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/snakeyaml-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/youtubedl-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-jemalloc-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/engine.io-client-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/icu4j-66.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-stb-3.3.4-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-opengl-3.3.4-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/annotations-24.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-openal-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-stb-3.3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-tinyfd-3.3.4-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/log4j-core-2.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jutils-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/log4j-api-2.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-stb-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ViaBackwards-5.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javabridge-1.0.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-openal-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/authlib-2.1.28.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-compress-1.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guava-21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/patchy-1.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jsr305-3.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-glfw-3.3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-tinyfd-3.3.4-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openauth-1.1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/text2speech-1.11.3-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/oshi-core-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/netty-all-4.1.25.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-opengl-3.3.4-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-opengl-3.3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-glfw-3.3.4-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jinput-2.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jopt-simple-5.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-io-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-tinyfd-3.3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platform-3.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ViaRewind-4.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gson-2.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/socket.io-client-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/httpclient-4.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-discord-rpc-2.0.1-all.jar!/" />
+      <root url="jar://$PROJECT_DIR$/brigadier-1.0.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-logging-1.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ViaVersion-5.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-tinyfd-3.3.4-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-lang3-3.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-opengl-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/httpcore-4.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fastutil-8.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-jemalloc-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-glfw-3.3.4-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jna-4.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-opengl-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datafixerupper-4.0.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/json-20140107.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
